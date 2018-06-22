@@ -50,5 +50,3 @@ For each plot you should:
 * Add the PNG file and R code file to the top-level folder of your git repository (no need for separate sub-folders).
 
 When you are finished with the assignment, push your git repository to GitHub so that the GitHub version of your repository is up to date. There should be four PNG files and four R code files, a total of eight files in the top-level folder of the repo.
-
-The four plots that you will need to construct are shown below.
